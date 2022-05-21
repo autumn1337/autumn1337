@@ -2,7 +2,7 @@
 <img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
 </p>
 <p align="center">
-    7teen
+    autumn#0867
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=autumn1337&color=blueviolet">
 </p>
