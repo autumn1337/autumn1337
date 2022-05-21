@@ -12,4 +12,4 @@
 <p align="center">
 currently learning more on python
 <p align="center">
-    <a href="https://discord.gg/vHFNnKZvfN">server</a>
+    <a href="https://discord.gg/vHFNnKZvfN">discord server</a>
