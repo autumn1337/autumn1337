@@ -12,4 +12,4 @@
 <p align="center">
 Currently learning HTML and .js
 <p align="center">
-    <a href="https://discord.gg/4nSYqZ8KAA">Discord Server</a>
+    <a href="https://discord.gg/vHFNnKZvfN">server</a>
